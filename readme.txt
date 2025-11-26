@@ -1,4 +1,4 @@
-hello 
+heyy 
 hii
-bye bye 
 python is very easy language 
+This is my first repo
